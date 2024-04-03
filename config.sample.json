@@ -6,17 +6,17 @@
   "closeExistingTabs": false,
   "websites": [
     {
-      "url": "chrome-extension://pjgjpabbgnnoohijnillgbckikfkbjed/index.html",
+      "url": "https://gsmautomotive.sharepoint.com/sites/GSMAutomotive2/SitePages/Kaizen's-for-March-2024.aspx",
       "duration": 8,
       "tabReloadIntervalSeconds": 15
     },
     {
-      "url": "https://www.patreon.com/kevdev",
+      "url": "https://gsmautomotive.sharepoint.com/sites/GSMAutomotive2/SitePages/ISO-14001-2015-Summary-for-2023-2024.aspx",
       "duration": 8,
       "tabReloadIntervalSeconds": 15
     },
     {
-      "url": "https://chrome.google.com/webstore/detail/tab-rotate/pjgjpabbgnnoohijnillgbckikfkbjed",
+      "url": "https://gsmautomotive.sharepoint.com/sites/GSMAutomotive2/SitePages/Brecon-Crime-Solvers.aspx",
       "duration": 8,
       "tabReloadIntervalSeconds": 15
     }
