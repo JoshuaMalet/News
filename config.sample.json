@@ -8,17 +8,17 @@
     {
       "url": "https://gsmautomotive.sharepoint.com/sites/GSMAutomotive2/SitePages/Kaizen's-for-March-2024.aspx",
       "duration": 8,
-      "tabReloadIntervalSeconds": 15
+      "tabReloadIntervalSeconds": 0
     },
     {
       "url": "https://gsmautomotive.sharepoint.com/sites/GSMAutomotive2/SitePages/ISO-14001-2015-Summary-for-2023-2024.aspx",
       "duration": 8,
-      "tabReloadIntervalSeconds": 15
+      "tabReloadIntervalSeconds": 0
     },
     {
       "url": "https://gsmautomotive.sharepoint.com/sites/GSMAutomotive2/SitePages/Brecon-Crime-Solvers.aspx",
       "duration": 8,
-      "tabReloadIntervalSeconds": 15
+      "tabReloadIntervalSeconds": 0
     }
   ]
 }
