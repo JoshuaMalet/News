@@ -1,23 +1,48 @@
 {
   "settingsReloadIntervalMinutes": 1,
-  "fullscreen": false,
+  "fullscreen": true,
   "autoStart": true,
   "lazyLoadTabs": false,
   "closeExistingTabs": true,
   "websites": [
     {
       "url": "https://gsmautomotive.sharepoint.com/sites/GSMAutomotive2/SitePages/Kaizen's-for-March-2024.aspx",
-      "duration": 8,
+      "duration": 60,
       "tabReloadIntervalSeconds": 0
     },
     {
       "url": "https://gsmautomotive.sharepoint.com/sites/GSMAutomotive2/SitePages/ISO-14001-2015-Summary-for-2023-2024.aspx",
-      "duration": 8,
+      "duration": 60,
       "tabReloadIntervalSeconds": 0
     },
     {
       "url": "https://gsmautomotive.sharepoint.com/sites/GSMAutomotive2/SitePages/Brecon-Crime-Solvers.aspx",
-      "duration": 8,
+      "duration": 60,
+      "tabReloadIntervalSeconds": 0
+    },
+    {
+      "url": "https://gsmautomotive.sharepoint.com/sites/GSMAutomotive2/SitePages/Engineering-Department-Restructure.aspx",
+      "duration": 60,
+      "tabReloadIntervalSeconds": 0
+    },
+    {
+      "url": "https://gsmautomotive.sharepoint.com/sites/GSMAutomotive2/SitePages/New-Deputy-Lord-Mayor-of-Oxford.aspx",
+      "duration": 60,
+      "tabReloadIntervalSeconds": 0
+    },
+    {
+      "url": "https://gsmautomotive.sharepoint.com/sites/GSMAutomotive2/SitePages/New-Key-Account-Manager-for-UK.aspx",
+      "duration": 60,
+      "tabReloadIntervalSeconds": 0
+    },
+    {
+      "url": "https://gsmautomotive.sharepoint.com/sites/GSMAutomotive2/SitePages/Red-Nose-Day---Brecon-2024.aspx",
+      "duration": 60,
+      "tabReloadIntervalSeconds": 0
+    },
+    {
+      "url": "https://gsmautomotive.sharepoint.com/sites/GSMAutomotive2/SitePages/Engineering-Team-Support-in-Mexico.aspx",
+      "duration": 60,
       "tabReloadIntervalSeconds": 0
     }
   ]
