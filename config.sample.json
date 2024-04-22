@@ -5,13 +5,18 @@
   "lazyLoadTabs": false,
   "closeExistingTabs": true,
   "websites": [
+     {
+      "url": "https://gsmautomotive.sharepoint.com/sites/GSMAutomotive2/SitePages/Operations-Conference-2024---Mexico.aspx",
+      "duration": 60,
+      "tabReloadIntervalSeconds": 0
+    },
     {
       "url": "https://gsmautomotive.sharepoint.com/sites/GSMAutomotive2/SitePages/Operations-Conference-2024---Mexico.aspx",
       "duration": 60,
       "tabReloadIntervalSeconds": 0
     },
     {
-      "url": "https://gsmautomotive.sharepoint.com/sites/GSMAutomotive2/SitePages/Kaizen's-for-March-2024.aspx",
+      "url": "https://gsmautomotive.sharepoint.com/sites/GSMAutomotive2/SitePages/Happy-Earth-Day.aspx",
       "duration": 60,
       "tabReloadIntervalSeconds": 0
     },
@@ -37,11 +42,6 @@
     },
     {
       "url": "https://gsmautomotive.sharepoint.com/sites/GSMAutomotive2/SitePages/New-Key-Account-Manager-for-UK.aspx",
-      "duration": 60,
-      "tabReloadIntervalSeconds": 0
-    },
-    {
-      "url": "https://gsmautomotive.sharepoint.com/sites/GSMAutomotive2/SitePages/Red-Nose-Day---Brecon-2024.aspx",
       "duration": 60,
       "tabReloadIntervalSeconds": 0
     }
