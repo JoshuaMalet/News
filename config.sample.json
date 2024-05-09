@@ -6,6 +6,11 @@
   "closeExistingTabs": true,
   "websites": [
     {
+      "url": "https://gsmautomotive.sharepoint.com/sites/GSMAutomotive2/SitePages/Mothers-Day---Mexico.aspx",
+      "duration": 60,
+      "tabReloadIntervalSeconds": 0
+    },
+    {
       "url": "https://gsmautomotive.sharepoint.com/sites/GSMAutomotive2/SitePages/Queretaro-5th-Year-Anniversary.aspx",
       "duration": 60,
       "tabReloadIntervalSeconds": 0
@@ -39,11 +44,6 @@
       "url": "https://gsmautomotive.sharepoint.com/sites/GSMAutomotive2/SitePages/Engineering-Department-Restructure.aspx",
       "duration": 60,
       "tabReloadIntervalSeconds": 0
-    },
-    {
-      "url": "https://gsmautomotive.sharepoint.com/sites/GSMAutomotive2/SitePages/New-Deputy-Lord-Mayor-of-Oxford.aspx",
-      "duration": 60,
-      "tabReloadIntervalSeconds": 0
-    }
+    }    
   ]
 }
