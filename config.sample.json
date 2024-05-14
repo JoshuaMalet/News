@@ -5,6 +5,11 @@
   "lazyLoadTabs": false,
   "closeExistingTabs": true,
   "websites": [
+     {
+      "url": "https://gsmautomotive.sharepoint.com/sites/GSMAutomotive2/SitePages/GSM-Queretaro-adds-2-stars.aspx",
+      "duration": 60,
+      "tabReloadIntervalSeconds": 0
+    },
     {
       "url": "https://gsmautomotive.sharepoint.com/sites/GSMAutomotive2/SitePages/GSM-Torun-gets-2-new-stars.aspx",
       "duration": 60,
@@ -39,11 +44,6 @@
       "url": "https://gsmautomotive.sharepoint.com/sites/GSMAutomotive2/SitePages/ISO-14001-2015-Summary-for-2023-2024.aspx",
       "duration": 60,
       "tabReloadIntervalSeconds": 0
-    },
-    {
-      "url": "https://gsmautomotive.sharepoint.com/sites/GSMAutomotive2/SitePages/Brecon-Crime-Solvers.aspx",
-      "duration": 60,
-      "tabReloadIntervalSeconds": 0
-    }   
+    }     
   ]
 }
