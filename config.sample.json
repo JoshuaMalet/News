@@ -6,6 +6,11 @@
   "closeExistingTabs": true,
   "websites": [
      {
+      "url": "https://gsmautomotive.sharepoint.com/sites/GSMAutomotive2/SitePages/Tiago-Corais-appointed-Deputy-Lord-Mayor-of-Oxford.aspx",
+      "duration": 60,
+      "tabReloadIntervalSeconds": 0
+    }, 
+     {
       "url": "https://gsmautomotive.sharepoint.com/sites/GSMAutomotive2/SitePages/GSM-Queretaro-adds-2-stars.aspx",
       "duration": 60,
       "tabReloadIntervalSeconds": 0
@@ -39,11 +44,6 @@
       "url": "https://gsmautomotive.sharepoint.com/sites/GSMAutomotive2/SitePages/Happy-Earth-Day.aspx",
       "duration": 60,
       "tabReloadIntervalSeconds": 0
-    },
-    {
-      "url": "https://gsmautomotive.sharepoint.com/sites/GSMAutomotive2/SitePages/ISO-14001-2015-Summary-for-2023-2024.aspx",
-      "duration": 60,
-      "tabReloadIntervalSeconds": 0
-    }     
+    }       
   ]
 }
