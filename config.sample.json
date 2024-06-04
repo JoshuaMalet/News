@@ -6,6 +6,11 @@
   "closeExistingTabs": true,
   "websites": [
     {
+      "url": "https://gsmautomotive.sharepoint.com/sites/GSMAutomotive2/SitePages/Torun-5th-Year-Anniversary-in-Plaska-Street.aspx",
+      "duration": 60,
+      "tabReloadIntervalSeconds": 0
+    },
+    {
       "url": "https://gsmautomotive.sharepoint.com/sites/GSMAutomotive2/SitePages/Tribute-to-our-late-founder-Barry-Dodd.aspx",
       "duration": 60,
       "tabReloadIntervalSeconds": 0
@@ -37,11 +42,6 @@
     },
     {
       "url": "https://gsmautomotive.sharepoint.com/sites/GSMAutomotive2/SitePages/Queretaro-5th-Year-Anniversary.aspx",
-      "duration": 60,
-      "tabReloadIntervalSeconds": 0
-    },
-     {
-      "url": "https://gsmautomotive.sharepoint.com/sites/GSMAutomotive2/SitePages/Happy-Earth-Day.aspx",
       "duration": 60,
       "tabReloadIntervalSeconds": 0
     }          
