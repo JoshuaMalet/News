@@ -5,6 +5,11 @@
   "lazyLoadTabs": false,
   "closeExistingTabs": true,
   "websites": [
+     {
+      "url": "https://gsmautomotive.sharepoint.com/sites/GSMAutomotive2/SitePages/Excellence-in-Automotive-Printer.aspx",
+      "duration": 60,
+      "tabReloadIntervalSeconds": 0
+    }, 
     {
       "url": "https://gsmautomotive.sharepoint.com/sites/GSMAutomotive2/SitePages/Torun-5th-Year-Anniversary-in-Plaska-Street.aspx",
       "duration": 60,
@@ -39,11 +44,6 @@
       "url": "https://gsmautomotive.sharepoint.com/sites/GSMAutomotive2/SitePages/Mothers-Day---Mexico.aspx",
       "duration": 60,
       "tabReloadIntervalSeconds": 0
-    },
-    {
-      "url": "https://gsmautomotive.sharepoint.com/sites/GSMAutomotive2/SitePages/Queretaro-5th-Year-Anniversary.aspx",
-      "duration": 60,
-      "tabReloadIntervalSeconds": 0
-    }          
+    }         
   ]
 }
