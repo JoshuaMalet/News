@@ -6,6 +6,11 @@
   "closeExistingTabs": true,
   "websites": [
      {
+      "url": "https://gsmautomotive.sharepoint.com/sites/GSMAutomotive2/SitePages/Kaizen's-for-May-2024.aspx",
+      "duration": 60,
+      "tabReloadIntervalSeconds": 0
+    }, 
+     {
       "url": "https://gsmautomotive.sharepoint.com/sites/GSMAutomotive2/SitePages/Excellence-in-Automotive-Printer.aspx",
       "duration": 60,
       "tabReloadIntervalSeconds": 0
@@ -39,11 +44,6 @@
       "url": "https://gsmautomotive.sharepoint.com/sites/GSMAutomotive2/SitePages/GSM-Torun-gets-2-new-stars.aspx",
       "duration": 60,
       "tabReloadIntervalSeconds": 0
-    }, 
-    {
-      "url": "https://gsmautomotive.sharepoint.com/sites/GSMAutomotive2/SitePages/Mothers-Day---Mexico.aspx",
-      "duration": 60,
-      "tabReloadIntervalSeconds": 0
-    }         
+    }        
   ]
 }
