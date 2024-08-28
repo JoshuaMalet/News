@@ -5,6 +5,16 @@
   "lazyLoadTabs": false,
   "closeExistingTabs": true,
   "websites": [
+     {
+      "url": "https://gsmautomotive.sharepoint.com/sites/GSMAutomotive2/SitePages/GSM-Torun---FORD-Q1-achieved.aspx",
+      "duration": 60,
+      "tabReloadIntervalSeconds": 50
+    }, 
+    {
+      "url": "https://gsmautomotive.sharepoint.com/sites/GSMAutomotive2/SitePages/GSM-Queretaro-new-baby-girl-for-Caesar.aspx",
+      "duration": 60,
+      "tabReloadIntervalSeconds": 50
+    }, 
     {
       "url": "https://gsmautomotive.sharepoint.com/sites/GSMAutomotive2/SitePages/Congratulations-Marcin-on-your-little-girl.aspx",
       "duration": 60,
@@ -34,16 +44,6 @@
       "url": "https://gsmautomotive.sharepoint.com/sites/GSMAutomotive2/SitePages/Kaizen's-for-May-2024.aspx",
       "duration": 60,
       "tabReloadIntervalSeconds": 50
-    }, 
-     {
-      "url": "https://gsmautomotive.sharepoint.com/sites/GSMAutomotive2/SitePages/Excellence-in-Automotive-Printer.aspx",
-      "duration": 60,
-      "tabReloadIntervalSeconds": 50
-    }, 
-    {
-      "url": "https://gsmautomotive.sharepoint.com/sites/GSMAutomotive2/SitePages/Torun-5th-Year-Anniversary-in-Plaska-Street.aspx",
-      "duration": 60,
-      "tabReloadIntervalSeconds": 50
-    }     
+    }    
   ]
 }
