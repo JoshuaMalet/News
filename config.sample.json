@@ -6,6 +6,11 @@
   "closeExistingTabs": true,
   "websites": [
     {
+      "url": "https://gsmautomotive.sharepoint.com/sites/GSMAutomotive2/SitePages/GSM-UK.aspx",
+      "duration": 60,
+      "tabReloadIntervalSeconds": 50
+    },
+    {
       "url": "https://gsmautomotive.sharepoint.com/sites/GSMAutomotive2/SitePages/Torun---FORD-Q1-%26-1-Million-Euro-Celebration.aspx",
       "duration": 60,
       "tabReloadIntervalSeconds": 50
@@ -37,11 +42,6 @@
     }, 
     {
       "url": "https://gsmautomotive.sharepoint.com/sites/GSMAutomotive2/SitePages/British-Embassy-Visit-GSM-Torun.aspx",
-      "duration": 60,
-      "tabReloadIntervalSeconds": 50
-    },
-    {
-      "url": "https://gsmautomotive.sharepoint.com/sites/GSMAutomotive2/SitePages/Wedding-Bells-in-GSM-Torun.aspx",
       "duration": 60,
       "tabReloadIntervalSeconds": 50
     }    
