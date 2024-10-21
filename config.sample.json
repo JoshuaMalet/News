@@ -6,6 +6,21 @@
   "closeExistingTabs": true,
   "websites": [
     {
+      "url": "https://gsmautomotive.sharepoint.com/sites/GSMAutomotive2/SitePages/Ruan-Holt's-fundraiser(1).aspx",
+      "duration": 60,
+      "tabReloadIntervalSeconds": 50
+    },
+    {
+      "url": "https://gsmautomotive.sharepoint.com/sites/GSMAutomotive2/SitePages/Torun-First-Aid-Training.aspx",
+      "duration": 60,
+      "tabReloadIntervalSeconds": 50
+    }, 
+    {
+      "url": "https://gsmautomotive.sharepoint.com/sites/GSMAutomotive2/SitePages/New-Bentely.aspx",
+      "duration": 60,
+      "tabReloadIntervalSeconds": 50
+    },
+    {
       "url": "https://gsmautomotive.sharepoint.com/sites/GSMAutomotive2/SitePages/Boy's-Day-Celebration---Torun%2C-Poland.aspx",
       "duration": 60,
       "tabReloadIntervalSeconds": 50
@@ -27,21 +42,6 @@
     }, 
     {
       "url": "https://gsmautomotive.sharepoint.com/sites/GSMAutomotive2/SitePages/GSM-Queretaro-new-baby-girl-for-Caesar.aspx",
-      "duration": 60,
-      "tabReloadIntervalSeconds": 50
-    }, 
-    {
-      "url": "https://gsmautomotive.sharepoint.com/sites/GSMAutomotive2/SitePages/Congratulations-Marcin-on-your-little-girl.aspx",
-      "duration": 60,
-      "tabReloadIntervalSeconds": 50
-    },
-    {
-      "url": "https://gsmautomotive.sharepoint.com/sites/GSMAutomotive2/SitePages/Weddings-Bells-in-Torun---August-2024.aspx",
-      "duration": 60,
-      "tabReloadIntervalSeconds": 50
-    }, 
-    {
-      "url": "https://gsmautomotive.sharepoint.com/sites/GSMAutomotive2/SitePages/Witney-Summer-BBQ-2024.aspx",
       "duration": 60,
       "tabReloadIntervalSeconds": 50
     }   
