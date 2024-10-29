@@ -5,6 +5,11 @@
   "lazyLoadTabs": false,
   "closeExistingTabs": true,
   "websites": [
+     {
+      "url": "https://gsmautomotive.sharepoint.com/sites/GSMAutomotive2/SitePages/IATF-16949-2016-Summary-for-2024.aspx",
+      "duration": 60,
+      "tabReloadIntervalSeconds": 50
+    }, 
     {
       "url": "https://gsmautomotive.sharepoint.com/sites/GSMAutomotive2/SitePages/Ruan-Holt's-fundraiser(1).aspx",
       "duration": 60,
@@ -39,11 +44,6 @@
       "url": "https://gsmautomotive.sharepoint.com/sites/GSMAutomotive2/SitePages/GSM-Torun---FORD-Q1-achieved.aspx",
       "duration": 60,
       "tabReloadIntervalSeconds": 50
-    }, 
-    {
-      "url": "https://gsmautomotive.sharepoint.com/sites/GSMAutomotive2/SitePages/GSM-Queretaro-new-baby-girl-for-Caesar.aspx",
-      "duration": 60,
-      "tabReloadIntervalSeconds": 50
-    }   
+    }  
   ]
 }
