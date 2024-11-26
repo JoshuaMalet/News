@@ -6,6 +6,21 @@
   "closeExistingTabs": true,
   "websites": [
      {
+      "url": "https://gsmautomotive.sharepoint.com/sites/GSMAutomotive2/SitePages/New-baby-boy-in-Torun.aspx",
+      "duration": 60,
+      "tabReloadIntervalSeconds": 50
+    },
+    {
+      "url": "https://gsmautomotive.sharepoint.com/sites/GSMAutomotive2/SitePages/International-Mens'-Day.aspx",
+      "duration": 60,
+      "tabReloadIntervalSeconds": 50
+    },
+    {
+      "url": "https://gsmautomotive.sharepoint.com/sites/GSMAutomotive2/SitePages/Queretaro-Flu-Vaccinations.aspx",
+      "duration": 60,
+      "tabReloadIntervalSeconds": 50
+    },
+     {
       "url": "https://gsmautomotive.sharepoint.com/sites/GSMAutomotive2/SitePages/IATF-16949-2016-Summary-for-2024.aspx",
       "duration": 60,
       "tabReloadIntervalSeconds": 50
@@ -20,21 +35,6 @@
       "duration": 60,
       "tabReloadIntervalSeconds": 50
     }, 
-    {
-      "url": "https://gsmautomotive.sharepoint.com/sites/GSMAutomotive2/SitePages/New-Bentely.aspx",
-      "duration": 60,
-      "tabReloadIntervalSeconds": 50
-    },
-    {
-      "url": "https://gsmautomotive.sharepoint.com/sites/GSMAutomotive2/SitePages/Boy's-Day-Celebration---Torun%2C-Poland.aspx",
-      "duration": 60,
-      "tabReloadIntervalSeconds": 50
-    },
-    {
-      "url": "https://gsmautomotive.sharepoint.com/sites/GSMAutomotive2/SitePages/GSM-UK.aspx",
-      "duration": 60,
-      "tabReloadIntervalSeconds": 50
-    },
     {
       "url": "https://gsmautomotive.sharepoint.com/sites/GSMAutomotive2/SitePages/Torun---FORD-Q1-%26-1-Million-Euro-Celebration.aspx",
       "duration": 60,
