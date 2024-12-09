@@ -5,6 +5,11 @@
   "lazyLoadTabs": false,
   "closeExistingTabs": true,
   "websites": [
+    {
+      "url": "https://gsmautomotive.sharepoint.com/sites/GSMAutomotive2/SitePages/New-BMW-Mini-Project.aspx",
+      "duration": 60,
+      "tabReloadIntervalSeconds": 50
+    },
      {
       "url": "https://gsmautomotive.sharepoint.com/sites/GSMAutomotive2/SitePages/ISO-14001-2015.aspx",
       "duration": 60,
@@ -37,11 +42,6 @@
     },
     {
       "url": "https://gsmautomotive.sharepoint.com/sites/GSMAutomotive2/SitePages/Torun-First-Aid-Training.aspx",
-      "duration": 60,
-      "tabReloadIntervalSeconds": 50
-    }, 
-    {
-      "url": "https://gsmautomotive.sharepoint.com/sites/GSMAutomotive2/SitePages/Torun---FORD-Q1-%26-1-Million-Euro-Celebration.aspx",
       "duration": 60,
       "tabReloadIntervalSeconds": 50
     } 
