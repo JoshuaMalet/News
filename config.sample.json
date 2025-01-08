@@ -6,6 +6,11 @@
   "closeExistingTabs": true,
   "websites": [
     {
+      "url": "https://gsmautomotive.sharepoint.com/sites/GSMAutomotive2/SitePages/Three-Kings-Day.aspx",
+      "duration": 60,
+      "tabReloadIntervalSeconds": 50
+    },
+    {
       "url": "https://gsmautomotive.sharepoint.com/sites/GSMAutomotive2/SitePages/Witney-Christmas-Lunch.aspx",
       "duration": 60,
       "tabReloadIntervalSeconds": 50
@@ -37,11 +42,6 @@
     }, 
      {
       "url": "https://gsmautomotive.sharepoint.com/sites/GSMAutomotive2/SitePages/New-baby-boy-in-Torun.aspx",
-      "duration": 60,
-      "tabReloadIntervalSeconds": 50
-    },
-    {
-      "url": "https://gsmautomotive.sharepoint.com/sites/GSMAutomotive2/SitePages/International-Mens'-Day.aspx",
       "duration": 60,
       "tabReloadIntervalSeconds": 50
     }
