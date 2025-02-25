@@ -5,6 +5,11 @@
   "lazyLoadTabs": false,
   "closeExistingTabs": true,
   "websites": [
+     {
+      "url": "https://gsmautomotive.sharepoint.com/sites/GSMAutomotive2/SitePages/Valentine's-Day.aspx",
+      "duration": 60,
+      "tabReloadIntervalSeconds": 50
+    },
     {
       "url": "https://gsmautomotive.sharepoint.com/sites/GSMAutomotive2/SitePages/FORD-Q1-Award---GSM-Poland.aspx",
       "duration": 60,
@@ -37,11 +42,6 @@
     },
     {
       "url": "https://gsmautomotive.sharepoint.com/sites/GSMAutomotive2/SitePages/New-BMW-Mini-Project.aspx",
-      "duration": 60,
-      "tabReloadIntervalSeconds": 50
-    },
-     {
-      "url": "https://gsmautomotive.sharepoint.com/sites/GSMAutomotive2/SitePages/ISO-14001-2015.aspx",
       "duration": 60,
       "tabReloadIntervalSeconds": 50
     }
