@@ -5,6 +5,16 @@
   "lazyLoadTabs": false,
   "closeExistingTabs": true,
   "websites": [
+          {
+      "url": "https://gsmautomotive.sharepoint.com/sites/GSMAutomotive2/SitePages/Happy-St-David's-Day.aspx",
+      "duration": 60,
+      "tabReloadIntervalSeconds": 50
+    },
+    {
+      "url": "https://gsmautomotive.sharepoint.com/sites/GSMAutomotive2/SitePages/Fat-Thursday.aspx",
+      "duration": 60,
+      "tabReloadIntervalSeconds": 50
+    },
      {
       "url": "https://gsmautomotive.sharepoint.com/sites/GSMAutomotive2/SitePages/Valentine's-Day.aspx",
       "duration": 60,
@@ -32,16 +42,6 @@
     },
      {
       "url": "https://gsmautomotive.sharepoint.com/sites/GSMAutomotive2/SitePages/Queretaro-Christmas-Party.aspx",
-      "duration": 60,
-      "tabReloadIntervalSeconds": 50
-    }, 
-      {
-      "url": "https://gsmautomotive.sharepoint.com/sites/GSMAutomotive2/SitePages/St-Nicholas-Day.aspx",
-      "duration": 60,
-      "tabReloadIntervalSeconds": 50
-    },
-    {
-      "url": "https://gsmautomotive.sharepoint.com/sites/GSMAutomotive2/SitePages/New-BMW-Mini-Project.aspx",
       "duration": 60,
       "tabReloadIntervalSeconds": 50
     }
