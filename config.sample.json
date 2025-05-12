@@ -5,6 +5,11 @@
   "lazyLoadTabs": false,
   "closeExistingTabs": true,
   "websites": [
+     {
+      "url": "https://gsmautomotive.sharepoint.com/sites/GSMAutomotive2/SitePages/Team-Members-celebrate-their-birthdays.aspx",
+      "duration": 60,
+      "tabReloadIntervalSeconds": 50
+    },
     {
       "url": "https://gsmautomotive.sharepoint.com/sites/GSMAutomotive2/SitePages/Easter-comes-early(1).aspx",
       "duration": 60,
@@ -37,11 +42,6 @@
     },
     {
       "url": "https://gsmautomotive.sharepoint.com/sites/GSMAutomotive2/SitePages/FORD-Q1-Award---GSM-Poland.aspx",
-      "duration": 60,
-      "tabReloadIntervalSeconds": 50
-    },
-    {
-      "url": "https://gsmautomotive.sharepoint.com/sites/GSMAutomotive2/SitePages/Three-Kings-Day.aspx",
       "duration": 60,
       "tabReloadIntervalSeconds": 50
     }
