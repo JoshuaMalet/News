@@ -6,6 +6,11 @@
   "closeExistingTabs": true,
   "websites": [
      {
+      "url": "https://gsmautomotive.sharepoint.com/sites/GSMAutomotive2/SitePages/Sponsored-Walk.aspx",
+      "duration": 60,
+      "tabReloadIntervalSeconds": 50
+    },
+     {
       "url": "https://gsmautomotive.sharepoint.com/sites/GSMAutomotive2/SitePages/Mothers-Day-in-Queretaro.aspx",
       "duration": 60,
       "tabReloadIntervalSeconds": 50
@@ -37,11 +42,6 @@
     },
           {
       "url": "https://gsmautomotive.sharepoint.com/sites/GSMAutomotive2/SitePages/Happy-St-David's-Day.aspx",
-      "duration": 60,
-      "tabReloadIntervalSeconds": 50
-    },
-    {
-      "url": "https://gsmautomotive.sharepoint.com/sites/GSMAutomotive2/SitePages/Fat-Thursday.aspx",
       "duration": 60,
       "tabReloadIntervalSeconds": 50
     }
