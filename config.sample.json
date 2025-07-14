@@ -5,6 +5,11 @@
   "lazyLoadTabs": false,
   "closeExistingTabs": true,
   "websites": [
+     {
+      "url": "https://gsmautomotive.sharepoint.com/sites/GSMAutomotive2/SitePages/GOES-Site-Audit---2025.aspx",
+      "duration": 60,
+      "tabReloadIntervalSeconds": 50
+    },
       {
       "url": "https://gsmautomotive.sharepoint.com/sites/GSMAutomotive2/SitePages/30-Years-Service.aspx",
       "duration": 60,
@@ -37,11 +42,6 @@
     },
     {
       "url": "https://gsmautomotive.sharepoint.com/sites/GSMAutomotive2/SitePages/Kaizen's-for-March-2025.aspx",
-      "duration": 60,
-      "tabReloadIntervalSeconds": 50
-    },
-    {
-      "url": "https://gsmautomotive.sharepoint.com/sites/GSMAutomotive2/SitePages/International-Women's-Day.aspx",
       "duration": 60,
       "tabReloadIntervalSeconds": 50
     }
