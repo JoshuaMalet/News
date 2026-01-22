@@ -2,14 +2,44 @@
   "isFullscreen": true,
   "pages": [
     {
-      "delaySeconds": 20,
+      "delaySeconds": 30,
       "reloadIntervalSeconds": 0,
-      "url": "https://github.com/skarpovru/chrome-tabs-rotator?tab=readme-ov-file"
+      "url": "https://gsmautomotive.sharepoint.com/sites/GSMAutomotive2/SitePages/GSM-Automotive---New-Investement.aspx"
     },
     {
-      "delaySeconds": 20,
+      "delaySeconds": 30,
       "reloadIntervalSeconds": 0,
-      "url": "https://chromewebstore.google.com/detail/tabs-rotator-slideshow/lkliejedgcbfamohhkcpndljomlmfbil?hl=en-GB&utm_source=ext_sidebar"
+      "url": "https://gsmautomotive.sharepoint.com/sites/GSMAutomotive2/SitePages/Torun-Christmas-Party-2025.aspx"
+    },
+    {
+      "delaySeconds": 30,
+      "reloadIntervalSeconds": 0,
+      "url": "https://gsmautomotive.sharepoint.com/sites/GSMAutomotive2/SitePages/Merry-Christmas-%26-Happy-New-Year.aspx"
+    },
+    {
+      "delaySeconds": 30,
+      "reloadIntervalSeconds": 0,
+      "url": "https://gsmautomotive.sharepoint.com/sites/GSMAutomotive2/SitePages/TISAX-AL2---Recertification.aspx"
+    },
+    {
+      "delaySeconds": 30,
+      "reloadIntervalSeconds": 0,
+      "url": "https://gsmautomotive.sharepoint.com/sites/GSMAutomotive2/SitePages/ISO-14001-2015-Results-for-2025.aspx"
+    },
+    {
+      "delaySeconds": 30,
+      "reloadIntervalSeconds": 0,
+      "url": "https://gsmautomotive.sharepoint.com/sites/GSMAutomotive2/SitePages/IATF-16949-2016---Results-for-2025.aspx"
+    },
+    {
+      "delaySeconds": 30,
+      "reloadIntervalSeconds": 0,
+      "url": "https://gsmautomotive.sharepoint.com/sites/GSMAutomotive2/SitePages/Secret-Santa.aspx"
+    },
+    {
+      "delaySeconds": 30,
+      "reloadIntervalSeconds": 0,
+      "url": "https://gsmautomotive.sharepoint.com/sites/GSMAutomotive2/SitePages/New-GOES-Pillar-Leaders.aspx"
     }
   ],
   "preventWindowFocus": false,
