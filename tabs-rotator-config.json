@@ -1,0 +1,17 @@
+{
+  "isFullscreen": true,
+  "pages": [
+    {
+      "delaySeconds": 20,
+      "reloadIntervalSeconds": 0,
+      "url": "https://github.com/skarpovru/chrome-tabs-rotator?tab=readme-ov-file"
+    },
+    {
+      "delaySeconds": 20,
+      "reloadIntervalSeconds": 0,
+      "url": "https://chromewebstore.google.com/detail/tabs-rotator-slideshow/lkliejedgcbfamohhkcpndljomlmfbil?hl=en-GB&utm_source=ext_sidebar"
+    }
+  ],
+  "preventWindowFocus": false,
+  "reuseLocalFileTabs": false
+}
