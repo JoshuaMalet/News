@@ -4,6 +4,11 @@
     {
       "delaySeconds": 30,
       "reloadIntervalSeconds": 200,
+      "url": "https://gsmautomotive.sharepoint.com/sites/GSMAutomotive2/SitePages/Harnessing-Artificial-Intelligence.aspx"
+    },
+    {
+      "delaySeconds": 30,
+      "reloadIntervalSeconds": 200,
       "url": "https://gsmautomotive.sharepoint.com/sites/GSMAutomotive2/SitePages/GSM-Automotive---New-Investement.aspx"
     },
     {
@@ -35,11 +40,6 @@
       "delaySeconds": 30,
       "reloadIntervalSeconds": 200,
       "url": "https://gsmautomotive.sharepoint.com/sites/GSMAutomotive2/SitePages/Secret-Santa.aspx"
-    },
-    {
-      "delaySeconds": 30,
-      "reloadIntervalSeconds": 200,
-      "url": "https://gsmautomotive.sharepoint.com/sites/GSMAutomotive2/SitePages/New-GOES-Pillar-Leaders.aspx"
     }
   ],
   "preventWindowFocus": false,
