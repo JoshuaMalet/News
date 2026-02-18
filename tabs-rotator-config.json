@@ -1,6 +1,11 @@
 {
   "isFullscreen": true,
   "pages": [
+    {
+      "delaySeconds": 30,
+      "reloadIntervalSeconds": 200,
+      "url": "https://gsmautomotive.sharepoint.com/sites/GSMAutomotive2/SitePages/Valentine's-Day-in-Queretaro.aspx"
+    },
      {
       "delaySeconds": 30,
       "reloadIntervalSeconds": 200,
@@ -35,11 +40,6 @@
       "delaySeconds": 30,
       "reloadIntervalSeconds": 200,
       "url": "https://gsmautomotive.sharepoint.com/sites/GSMAutomotive2/SitePages/ISO-14001-2015-Results-for-2025.aspx"
-    },
-    {
-      "delaySeconds": 30,
-      "reloadIntervalSeconds": 200,
-      "url": "https://gsmautomotive.sharepoint.com/sites/GSMAutomotive2/SitePages/IATF-16949-2016---Results-for-2025.aspx"
     }
   ],
   "preventWindowFocus": false,
