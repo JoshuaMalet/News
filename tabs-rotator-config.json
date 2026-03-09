@@ -1,6 +1,11 @@
 {
   "isFullscreen": true,
   "pages": [
+      {
+      "delaySeconds": 30,
+      "reloadIntervalSeconds": 200,
+      "url": "https://gsmautomotive.sharepoint.com/sites/GSMAutomotive2/SitePages/International-Women's-Day(1).aspx"
+    },
     {
       "delaySeconds": 30,
       "reloadIntervalSeconds": 200,
@@ -35,11 +40,6 @@
       "delaySeconds": 30,
       "reloadIntervalSeconds": 200,
       "url": "https://gsmautomotive.sharepoint.com/sites/GSMAutomotive2/SitePages/Merry-Christmas-%26-Happy-New-Year.aspx"
-    },
-    {
-      "delaySeconds": 30,
-      "reloadIntervalSeconds": 200,
-      "url": "https://gsmautomotive.sharepoint.com/sites/GSMAutomotive2/SitePages/TISAX-AL2---Recertification.aspx"
     }
   ],
   "preventWindowFocus": false,
