@@ -1,6 +1,11 @@
 {
   "isFullscreen": true,
   "pages": [
+    {
+      "delaySeconds": 30,
+      "reloadIntervalSeconds": 200,
+      "url": "https://gsmautomotive.sharepoint.com/sites/GSMAutomotive2/SitePages/Organisational-Announcement-%E2%80%93-Leadership-and-Team-Changes.aspx"
+    },
      {
       "delaySeconds": 30,
       "reloadIntervalSeconds": 200,
@@ -35,11 +40,6 @@
       "delaySeconds": 30,
       "reloadIntervalSeconds": 200,
       "url": "https://gsmautomotive.sharepoint.com/sites/GSMAutomotive2/SitePages/Harnessing-Artificial-Intelligence.aspx"
-    },
-    {
-      "delaySeconds": 30,
-      "reloadIntervalSeconds": 200,
-      "url": "https://gsmautomotive.sharepoint.com/sites/GSMAutomotive2/SitePages/GSM-Automotive---New-Investement.aspx"
     }
   ],
   "preventWindowFocus": false,
